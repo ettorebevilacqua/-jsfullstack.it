@@ -1,1 +1,1 @@
-# -jsfullstack.it
+# jsfullstack.it
